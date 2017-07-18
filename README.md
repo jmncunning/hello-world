@@ -1,2 +1,3 @@
 # hello-world
 Simple Hello World Application.... Give me a break I'm learning here...
+Hello my name is Jamin... Why hello Jamin how are you? Oh thank you for asking I am fantastict!
